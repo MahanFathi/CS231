@@ -1,7 +1,8 @@
 # CS231n (Spring 2017) Completed Assignments
 Complete Assignments for **Spring 2017** [CS231n: Convolutional Neural Networks for Visual Recognition](cs231n.stanford.edu).
 
-What a great place for diving into Deep Learning. Big thanks to the fellas at CS231 Stanford!
+What a great place for diving into Deep Learning. Big thanks to all the fellas at CS231 Stanford!
+
 Find course notes and assignments [here](cs231n.github.io). 
 
 ### Assignment 1:

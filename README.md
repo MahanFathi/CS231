@@ -1,4 +1,4 @@
-# CS231 (Spring 2017) Compelete Assignments
+# CS231 (Spring 2017) Complete Assignments
 Complete Assignments for **Spring 2017** [CS231n: Convolutional Neural Networks for Visual Recognition](cs231n.stanford.edu).
 
 What a great place for diving into Deep Learning. Big thanks to the fellas at CS231 Stanford!

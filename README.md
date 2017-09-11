@@ -3,7 +3,7 @@ Completed Assignments for **Spring 2017** [CS231n: Convolutional Neural Networks
 
 I have just finished the course online and this repo contains my solutions to the assignments! What a great place for diving into Deep Learning. Big thanks to all the fellas at CS231 Stanford!
 
-Find course notes and assignments [here](cs231n.github.io) and be sure to check out [video lectrues](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)! 
+Find course notes and assignments [here](cs231n.github.io) and be sure to check out video lectrues for [Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)! 
 
 ### Assignment 1:
 - [Q1](https://github.com/MahanFathi/CS231/blob/master/assignment1/knn.ipynb): k-Nearest Neighbor classifier. (_Done_)
